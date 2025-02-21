@@ -1,6 +1,4 @@
-## Hi there 👋
-I'm a relatively new developer and am currently learning Python via various projects.
-I'm currently working on a music player for mobile devices.
+Slightly inept programmer
 <!--
 **Krincel/Krincel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
